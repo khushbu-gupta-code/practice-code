@@ -1,2 +1,2 @@
 # practice-code
-this is my practice code 
+This is my practice code.
